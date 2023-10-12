@@ -9,3 +9,9 @@ At the same time I started this project, we were exploring using Tailwind CSS fo
 https://www.motscouture.com
 
 HTML, CSS, ReactJS, TypeScript, Tailwind CSS, Recharts
+
+Mots Couture Screenshots:
+
+![mots-couture screenshot](https://www.dalesmith.com/temp/motscouture_screenshot.png)
+ 
+[View Demo](https://www.motscouture.com)
