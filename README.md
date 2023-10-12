@@ -13,5 +13,6 @@ HTML, CSS, ReactJS, TypeScript, Tailwind CSS, Recharts
 Mots Couture Screenshots:
 
 ![mots-couture screenshot](https://www.dalesmith.com/temp/motscouture_screenshot.png)
+![mots-couture technial solutions document](https://www.dalesmith.com/temp/motscouture_tsd.png)
  
 [View Demo](https://www.motscouture.com)
